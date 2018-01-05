@@ -1,0 +1,569 @@
+Source,Target
+A+ (programming language),K (programming language)
+ABC (programming language),Python (programming language)
+ABSYS,Prolog
+ALGOL 60,Simula
+ALGOL 60,Combined Programming Language
+ALGOL 60,Pascal (programming language)
+ALGOL 60,Ada (programming language)
+ALGOL 60,C (programming language)
+ALGOL 68,C (programming language)
+ALGOL 68,C++
+ALGOL 68,Bourne shell
+ALGOL 68,Bash (Unix shell)
+ALGOL 68,Python (programming language)
+ALGOL 68,Seed7
+ALGOL 68,Mary (programming language)
+ALGOL 68,S3 (programming language)
+ALGOL W,Pascal (programming language)
+ALGOL W,Modula-2
+APL (programming language),Go (programming language)
+APL (programming language),J (programming language)
+APL (programming language),K (programming language)
+APL (programming language),MATLAB
+APL (programming language),Nial
+APL (programming language),Polymorphic Programming Language
+APL (programming language),Q (programming language from Kx Systems)
+APL (programming language),S (programming language)
+APL (programming language),Wolfram Language
+AS/400 Control Language,Windows PowerShell
+AWK,Tcl
+AWK,AMPL
+AWK,Perl
+AWK,Lua (programming language)
+A Sharp (Axiom),Aldor
+ActionScript,Haxe
+Ada (programming language),C++
+Ada (programming language),Chapel (programming language)
+Ada (programming language),Eiffel (programming language)
+Ada (programming language),Java (programming language)
+Ada (programming language),Nim (programming language)
+Ada (programming language),PL/SQL
+Ada (programming language),Ruby (programming language)
+Ada (programming language),Rust (programming language)
+Ada (programming language),Seed7
+Agda (theorem prover),Idris (programming language)
+Alef (programming language),Limbo (programming language)
+Alef (programming language),Rust (programming language)
+Alef (programming language),Go (programming language)
+BASIC,COMAL
+BASIC,Visual Basic
+BASIC,Visual Basic .NET
+BASIC,GRASS (programming language)
+BASIC,AutoIt
+BASIC,AutoHotkey
+BASIC,Ring (programming language)
+BCPL,B (programming language)
+BCPL,C (programming language)
+BCPL,Go (programming language)
+B (programming language),C (programming language)
+Boo (programming language),Genie (programming language)
+Boo (programming language),Vala (programming language)
+C++,Ada (programming language)
+C++,C Sharp (programming language)
+C++,Chapel (programming language)
+C++,D (programming language)
+C++,Java (programming language)
+C++,Lua (programming language)
+C++,Perl
+C++,PHP
+C++,Python (programming language)
+C++,Rust (programming language)
+C++,Nim (programming language)
+CLU (programming language),Ada (programming language)
+CLU (programming language),Argus (programming language)
+CLU (programming language),C++
+CLU (programming language),Lua (programming language)
+CLU (programming language),Python (programming language)
+CLU (programming language),Ruby (programming language)
+CLU (programming language),Sather
+CLU (programming language),Swift (programming language)
+COBOL,PL/I
+COBOL,Programming Language for Business
+COMIT,SNOBOL
+COMTRAN,COBOL
+COWSEL,POP-2
+CPL (programming language),BCPL
+CPL (programming language),POP-2
+C (programming language),AMPL
+C (programming language),AWK
+C (programming language),C++
+C (programming language),C--
+C (programming language),C Sharp (programming language)
+C (programming language),Objective-C
+C (programming language),D (programming language)
+C (programming language),Go (programming language)
+C (programming language),Java (programming language)
+C (programming language),JavaScript
+C (programming language),Julia (programming language)
+C (programming language),Limbo (programming language)
+C (programming language),LPC (programming language)
+C (programming language),Perl
+C (programming language),PHP
+C (programming language),Pike (programming language)
+C (programming language),Processing (programming language)
+C (programming language),Python (programming language)
+C (programming language),Ring (programming language)
+C (programming language),Rust (programming language)
+C (programming language),Seed7
+C (programming language),Vala (programming language)
+C (programming language),Verilog
+C Sharp (programming language),Chapel (programming language)
+C Sharp (programming language),Crystal (programming language)
+C Sharp (programming language),D (programming language)
+C Sharp (programming language),J Sharp
+C Sharp (programming language),Dart (programming language)
+C Sharp (programming language),F Sharp (programming language)
+C Sharp (programming language),Hack (programming language)
+C Sharp (programming language),Java (programming language)
+C Sharp (programming language),Kotlin (programming language)
+C Sharp (programming language),Nemerle
+C Sharp (programming language),Oxygene (programming language)
+C Sharp (programming language),Ring (programming language)
+C Sharp (programming language),Rust (programming language)
+C Sharp (programming language),Swift (programming language)
+C Sharp (programming language),Vala (programming language)
+Caml,F Sharp (programming language)
+Clean (programming language),Haskell (programming language)
+Clojure,Elixir (programming language)
+CoffeeScript,LiveScript
+Combined Programming Language,BCPL
+Combined Programming Language,POP-2
+Common Lisp,Clojure
+Common Lisp,Dylan (programming language)
+Common Lisp,Emacs Lisp
+Common Lisp,ISLISP
+Common Lisp,Julia (programming language)
+Common Lisp,R (programming language)
+Cool (programming language),OCaml
+Cyclone (programming language),Rust (programming language)
+DBase,Clipper (programming language)
+DBase,Harbour (software)
+DBase,FoxPro
+DIGITAL Command Language,Windows PowerShell
+D (programming language),Vala (programming language)
+D (programming language),Swift (programming language)
+D (programming language),Genie (programming language)
+Dylan (programming language),Lasso (programming language)
+Dylan (programming language),Python (programming language)
+Dylan (programming language),Ruby (programming language)
+Eiffel (programming language),Ada (programming language)
+Eiffel (programming language),C Sharp (programming language)
+Eiffel (programming language),D (programming language)
+Eiffel (programming language),Java (programming language)
+Eiffel (programming language),Lisaac
+Eiffel (programming language),Racket (programming language)
+Eiffel (programming language),Ruby (programming language)
+Eiffel (programming language),Sather
+Eiffel (programming language),Scala (programming language)
+Emerald (programming language),Java (programming language)
+Emerald (programming language),Singularity (operating system)
+Epigram (programming language),Idris (programming language)
+Erlang (programming language),F Sharp (programming language)
+Erlang (programming language),Clojure
+Erlang (programming language),Rust (programming language)
+Erlang (programming language),Scala (programming language)
+Erlang (programming language),Opa (programming language)
+Erlang (programming language),Reia (programming language)
+Erlang (programming language),Elixir (programming language)
+Erlang (programming language),Dart (programming language)
+Erlang (programming language),Oz (programming language)
+Es (Unix shell),Es (Unix shell)
+Etoys (programming language),Scratch (programming language)
+Euclid (programming language),Mesa (programming language)
+Euclid (programming language),Turing (programming language)
+FFP (programming language),FL (programming language)
+FFP (programming language),Haskell (programming language)
+FFP (programming language),J (programming language)
+FLOW-MATIC,MATH-MATIC
+FLOW-MATIC,COBOL
+FL (programming language),J (programming language)
+FP (programming language),FL (programming language)
+FP (programming language),Haskell (programming language)
+FP (programming language),J (programming language)
+F Sharp (programming language),C Sharp (programming language)
+F Sharp (programming language),Elm (programming language)
+F Sharp (programming language),F* (programming language)
+F Sharp (programming language),LiveScript
+Forth (programming language),Factor (programming language)
+Forth (programming language),PostScript
+Forth (programming language),RPL (programming language)
+Forth (programming language),REBOL
+Fortran,ALGOL 58
+Fortran,BASIC
+Fortran,C (programming language)
+Fortran,Chapel (programming language)
+Fortran,CMS-2 (programming language)
+Fortran,PL/I
+Fortran,MUMPS
+Fortran,Ratfor
+Go (programming language),Crystal (programming language)
+Gosu (programming language),Kotlin (programming language)
+Groovy (programming language),Kotlin (programming language)
+Harbour (software),XHarbour
+Haskell (programming language),C Sharp (programming language)
+Haskell (programming language),Cayenne (programming language)
+Haskell (programming language),Clean (programming language)
+Haskell (programming language),Clojure
+Haskell (programming language),CoffeeScript
+Haskell (programming language),Curry (programming language)
+Haskell (programming language),Elm (programming language)
+Haskell (programming language),Epigram (programming language)
+Haskell (programming language),Escher (programming language)
+Haskell (programming language),F Sharp (programming language)
+Haskell (programming language),Frege (programming language)
+Haskell (programming language),Hack (programming language)
+Haskell (programming language),Idris (programming language)
+Haskell (programming language),Java (programming language)
+Haskell (programming language),LiveScript
+Haskell (programming language),Mercury (programming language)
+Haskell (programming language),Perl 6
+Haskell (programming language),Python (programming language)
+Haskell (programming language),Rust (programming language)
+Haskell (programming language),Scala (programming language)
+Haskell (programming language),Swift (programming language)
+Haskell (programming language),Timber (programming language)
+Haskell (programming language),Visual Basic .NET
+HyperTalk,ActionScript
+HyperTalk,AppleScript
+HyperTalk,ECMAScript
+HyperTalk,JavaScript
+HyperTalk,Lingo (programming language)
+HyperTalk,LiveCode
+HyperTalk,SenseTalk
+HyperTalk,SuperTalk
+ISWIM,Haskell (programming language)
+ISWIM,Clean (programming language)
+ISWIM,Lucid (programming language)
+Icon (programming language),Python (programming language)
+Information Processing Language,Lisp (programming language)
+Io (programming language),Ioke (programming language)
+JOSS,BASIC
+JOSS,TELCOMP
+JOSS,FOCAL (programming language)
+JOSS,MUMPS
+JOVIAL,CMS-2 (programming language)
+JOVIAL,Coral 66
+JOVIAL,SYMPL
+J (programming language),SuperCollider
+JavaScript,ActionScript
+JavaScript,CoffeeScript
+JavaScript,Dart (programming language)
+JavaScript,JScript .NET
+JavaScript,LiveScript
+JavaScript,Objective-J
+JavaScript,Opa (programming language)
+JavaScript,Perl 6
+JavaScript,TypeScript
+Java (programming language),Ada (programming language)
+Java (programming language),BeanShell
+Java (programming language),C Sharp (programming language)
+Java (programming language),Chapel (programming language)
+Java (programming language),Clojure
+Java (programming language),ECMAScript
+Java (programming language),Fantom (programming language)
+Java (programming language),Groovy (programming language)
+Java (programming language),Hack (programming language)
+Java (programming language),J Sharp
+Java (programming language),JavaScript
+Java (programming language),Kotlin (programming language)
+Java (programming language),PHP
+Java (programming language),Python (programming language)
+Java (programming language),Scala (programming language)
+Java (programming language),Seed7
+Java (programming language),Vala (programming language)
+Joule (programming language),E (programming language)
+Joy (programming language),Factor (programming language)
+K (programming language),Q (programming language from Kx Systems)
+LPC (programming language),Pike (programming language)
+Limbo (programming language),Stackless Python
+Limbo (programming language),Go (programming language)
+Limbo (programming language),Rust (programming language)
+Lisp (programming language),CLU (programming language)
+Lisp (programming language),COWSEL
+Lisp (programming language),Dylan (programming language)
+Lisp (programming language),Elixir (programming language)
+Lisp (programming language),Falcon (programming language)
+Lisp (programming language),Forth (programming language)
+Lisp (programming language),Haskell (programming language)
+Lisp (programming language),Io (programming language)
+Lisp (programming language),Ioke (programming language)
+Lisp (programming language),JavaScript
+Lisp (programming language),Julia (programming language)
+Lisp (programming language),Logo (programming language)
+Lisp (programming language),Lua (programming language)
+Lisp (programming language),ML (programming language)
+Lisp (programming language),Nim (programming language)
+Lisp (programming language),Nu (programming language)
+Lisp (programming language),OPS5
+Lisp (programming language),Perl
+Lisp (programming language),POP-2
+Lisp (programming language),POP-11
+Lisp (programming language),Python (programming language)
+Lisp (programming language),R (programming language)
+Lisp (programming language),Ruby (programming language)
+Lisp (programming language),Scala (programming language)
+Lisp (programming language),Swift (programming language)
+Lisp (programming language),Smalltalk
+Lisp (programming language),Tcl
+Lisp (programming language),Wolfram Language
+Logo (programming language),NetLogo
+Logo (programming language),Smalltalk
+Logo (programming language),Etoys (programming language)
+Logo (programming language),Scratch (programming language)
+Logo (programming language),REBOL
+Lua (programming language),Falcon (programming language)
+Lua (programming language),GameMonkey Script
+Lua (programming language),Io (programming language)
+Lua (programming language),JavaScript
+Lua (programming language),Julia (programming language)
+Lua (programming language),Red (programming language)
+Lua (programming language),Ring (programming language)
+Lua (programming language),Ruby (programming language)
+Lua (programming language),Squirrel (programming language)
+Lucid (programming language),SISAL
+Lucid (programming language),Lustre (programming language)
+ML (programming language),Clojure
+ML (programming language),Coq
+ML (programming language),Cyclone (programming language)
+ML (programming language),C++
+ML (programming language),Elm (programming language)
+ML (programming language),F Sharp (programming language)
+ML (programming language),F* (programming language)
+ML (programming language),Haskell (programming language)
+ML (programming language),Idris (programming language)
+ML (programming language),Miranda (programming language)
+ML (programming language),Nemerle
+ML (programming language),OCaml
+ML (programming language),Opa (programming language)
+ML (programming language),Erlang (programming language)
+ML (programming language),Rust (programming language)
+ML (programming language),Scala (programming language)
+MUMPS,Caché ObjectScript
+Mesa (programming language),Java (programming language)
+Mesa (programming language),Modula-2
+Miranda (programming language),Clean (programming language)
+Miranda (programming language),Haskell (programming language)
+Modula,Alma-0
+Modula,Go (programming language)
+Modula,Modula-2
+Modula-2,Modula-3
+Modula-2,Oberon (programming language)
+Modula-2,Ada (programming language)
+Modula-2,Lua (programming language)
+Modula-2,Seed7
+Modula-3,Java (programming language)
+Modula-3,Python (programming language)
+Modula-3,Caml
+Modula-3,C Sharp (programming language)
+Modula-3,Nim (programming language)
+OCaml,ATS (programming language)
+OCaml,Elm (programming language)
+OCaml,F Sharp (programming language)
+OCaml,F* (programming language)
+OCaml,Haxe
+OCaml,Opa (programming language)
+OCaml,Rust (programming language)
+OCaml,Scala (programming language)
+Oberon (programming language),Go (programming language)
+Oberon (programming language),Nim (programming language)
+Object Pascal,C Sharp (programming language)
+Object Pascal,Genie (programming language)
+Object Pascal,Java (programming language)
+Object Pascal,Nim (programming language)
+Object REXX,NetRexx
+Objective-C,Groovy (programming language)
+Objective-C,Java (programming language)
+Objective-C,Nu (programming language)
+Objective-C,Objective-J
+Objective-C,TOM (object-oriented programming language)
+Objective-C,Swift (programming language)
+Occam (programming language),Ease (programming language)
+Occam (programming language),Go (programming language)
+Orwell (programming language),Haskell (programming language)
+Oz (programming language),Alice (programming language)
+Oz (programming language),Scala (programming language)
+PHP,Falcon (programming language)
+PHP,Hack (programming language)
+PL/I,CMS-2 (programming language)
+PL/I,SP/k
+PL/I,B (programming language)
+PL/I,REXX
+PL/I,AS/400 Control Language
+Pascal (programming language),Ada (programming language)
+Pascal (programming language),Component Pascal
+Pascal (programming language),Go (programming language)
+Pascal (programming language),Java (programming language)
+Pascal (programming language),Modula
+Pascal (programming language),Modula-2
+Pascal (programming language),Modula-3
+Pascal (programming language),Oberon (programming language)
+Pascal (programming language),Object Pascal
+Pascal (programming language),Oxygene (programming language)
+Pascal (programming language),Seed7
+Perl,CoffeeScript
+Perl,ECMAScript
+Perl,Falcon (programming language)
+Perl,Groovy (programming language)
+Perl,JavaScript
+Perl,Julia (programming language)
+Perl,LPC (programming language)
+Perl,Perl 6
+Perl,PHP
+Perl,Python (programming language)
+Perl,Ruby (programming language)
+Perl,Windows PowerShell
+Perl 6,Perl
+Perl 6,Haskell (programming language)
+Pizza (programming language),Generic Java
+Prolog,Visual Prolog
+Prolog,Mercury (programming language)
+Prolog,Oz (programming language)
+Prolog,Erlang (programming language)
+Prolog,Strand (programming language)
+Prolog,Datalog
+Prolog,Constraint Handling Rules
+Prolog,XSB
+Python (programming language),Boo (programming language)
+Python (programming language),Cobra (programming language)
+Python (programming language),CoffeeScript
+Python (programming language),D (programming language)
+Python (programming language),F Sharp (programming language)
+Python (programming language),Falcon (programming language)
+Python (programming language),Genie (programming language)
+Python (programming language),Go (programming language)
+Python (programming language),Groovy (programming language)
+Python (programming language),JavaScript
+Python (programming language),Julia (programming language)
+Python (programming language),Nim (programming language)
+Python (programming language),Ring (programming language)
+Python (programming language),Ruby (programming language)
+Python (programming language),Swift (programming language)
+QBasic,Microsoft Small Basic
+REBOL,Red (programming language)
+REXX,NetRexx
+REXX,Object REXX
+R (programming language),Julia (programming language)
+Racket (programming language),Scheme (programming language)
+Racket (programming language),Rust (programming language)
+Racket (programming language),Clojure
+Rc,Es (Unix shell)
+Ruby (programming language),Clojure
+Ruby (programming language),CoffeeScript
+Ruby (programming language),Crystal (programming language)
+Ruby (programming language),D (programming language)
+Ruby (programming language),Elixir (programming language)
+Ruby (programming language),Falcon (programming language)
+Ruby (programming language),Groovy (programming language)
+Ruby (programming language),Ioke (programming language)
+Ruby (programming language),Julia (programming language)
+Ruby (programming language),Mirah (programming language)
+Ruby (programming language),Nu (programming language)
+Ruby (programming language),Reia (programming language)
+Ruby (programming language),Ring (programming language)
+Ruby (programming language),Rust (programming language)
+Ruby (programming language),Swift (programming language)
+Rust (programming language),Crystal (programming language)
+Rust (programming language),Elm (programming language)
+Rust (programming language),Idris (programming language)
+SASL (programming language),Kent Recursive Calculator
+SASL (programming language),Haskell (programming language)
+SETL,ABC (programming language)
+SISAL,Haskell (programming language)
+SNOBOL,Icon (programming language)
+SNOBOL,Lua (programming language)
+SP/k,Turing (programming language)
+SQL,PowerShell
+Sather,Cool (programming language)
+Sather,Rust (programming language)
+Scala (programming language),Ceylon (programming language)
+Scala (programming language),Fantom (programming language)
+Scala (programming language),F Sharp (programming language)
+Scala (programming language),Kotlin (programming language)
+Scala (programming language),Lasso (programming language)
+Scala (programming language),Red (programming language)
+Scheme (programming language),Clojure
+Scheme (programming language),Common Lisp
+Scheme (programming language),Dylan (programming language)
+Scheme (programming language),Haskell (programming language)
+Scheme (programming language),Hop (software)
+Scheme (programming language),JavaScript
+Scheme (programming language),Julia (programming language)
+Scheme (programming language),Lua (programming language)
+Scheme (programming language),R (programming language)
+Scheme (programming language),S (programming language)
+Scheme (programming language),Racket (programming language)
+Scheme (programming language),Ruby (programming language)
+Scheme (programming language),Rust (programming language)
+Scheme (programming language),Scala (programming language)
+Scratch (programming language),Snap! (programming language)
+Sed,Chomski
+Sed,Perl
+Sed,AWK
+Self (programming language),NewtonScript
+Self (programming language),JavaScript
+Self (programming language),Io (programming language)
+Self (programming language),Agora (programming language)
+Self (programming language),Squeak
+Self (programming language),Lisaac
+Self (programming language),Lua (programming language)
+Self (programming language),Factor (programming language)
+Self (programming language),REBOL
+Smalltalk,AppleScript
+Smalltalk,Dart (programming language)
+Smalltalk,Dylan (programming language)
+Smalltalk,Erlang (programming language)
+Smalltalk,Etoys (programming language)
+Smalltalk,Falcon (programming language)
+Smalltalk,Go (programming language)
+Smalltalk,Groovy (programming language)
+Smalltalk,Io (programming language)
+Smalltalk,Ioke (programming language)
+Smalltalk,Java (programming language)
+Smalltalk,Lasso (programming language)
+Smalltalk,Lisaac
+Smalltalk,Logtalk
+Smalltalk,NewtonScript
+Smalltalk,Object REXX
+Smalltalk,Objective-C
+Smalltalk,PHP
+Smalltalk,Perl 6
+Smalltalk,Python (programming language)
+Smalltalk,Ruby (programming language)
+Smalltalk,Scala (programming language)
+Smalltalk,Scratch (programming language)
+Smalltalk,Self (programming language)
+Speedcoding,Fortran
+Speedcoding,ALGOL 58
+Speedcoding,BASIC
+Speedcoding,C (programming language)
+Speedcoding,PL/I
+Speedcoding,MUMPS
+Speedcoding,Ratfor
+Squeak,Etoys (programming language)
+Squeak,Scratch (programming language)
+Standard ML,Elm (programming language)
+Standard ML,OCaml
+Standard ML,Rust (programming language)
+Standard ML,Scala (programming language)
+Starlogo,NetLogo
+Starlogo,Etoys (programming language)
+TELCOMP,MUMPS
+T (programming language),Joule (programming language)
+Tcl,PHP
+Tcl,Tea (programming language)
+Tcl,Windows PowerShell
+Verilog,SystemVerilog
+Visual Basic,Visual Basic .NET
+Visual Basic,Xojo
+Visual Basic .NET,Microsoft Small Basic
+Visual Fortran,ALGOL 58
+Visual Fortran,BASIC
+Visual Fortran,C (programming language)
+Visual Fortran,Chapel (programming language)
+Visual Fortran,CMS-2 (programming language)
+Visual Fortran,PL/I
+Visual Fortran,MUMPS
+Visual Fortran,Ratfor
+Wolfram Language,Julia (programming language)
+ZPL (programming language),Chapel (programming language)
